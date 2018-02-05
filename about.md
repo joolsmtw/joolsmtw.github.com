@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-My names is Julie, Julka or Jul. Weirdo with interest in pretty much anything, but specifically history, political economy, languages, aviation and computer science.
+My name is Julie, but you can also call me Julka or Jul, if you want to. Weirdo with interest in pretty much anything, but specifically history, political economy, languages, aviation and computer science.
 
 ### Contact me
 
